@@ -9,6 +9,7 @@
     "hardhat": "^2.9.1"
   },
   "dependencies": {
-    "solhint": "^3.3.7"
+    "solhint": "^3.3.7",
+    "dotenv": "^16.0.1"
   }
 }
